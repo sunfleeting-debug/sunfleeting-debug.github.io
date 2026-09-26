@@ -1,19 +1,19 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "启明星-长庚星",
-    "home_page_url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/",
-    "feed_url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/feed.json",
+    "home_page_url": "https://sunfleeting-debug.github.io/",
+    "feed_url": "https://sunfleeting-debug.github.io/feed.json",
     "description": "转瞬即逝的，都记在这里",
-    "icon": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/avatar.jpg",
+    "icon": "https://sunfleeting-debug.github.io/images/avatar.jpg",
     "author": {
         "name": "sunfleeting",
         "url": "https://github.com/sunfleeting-debug"
     },
     "items": [
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-huan-lian-zui-gao-fa-yi-jian",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-huan-lian-zui-gao-fa-yi-jian\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-huan-lian-zui-gao-fa-yi-jian</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-huan-lian-zui-gao-fa-yi-jian",
+            "id": "https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian",
             "title": "新闻烟火｜AI换脸、AI复活、AI偷声——最高法终于把“AI生成”这块免死金牌砸了",
             "date_modified": "2026-09-07T00:00:00.000Z",
             "date_published": "2026-09-07T00:00:00.000Z",
@@ -23,9 +23,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-kimi-k3",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-kimi-k3\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-kimi-k3</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-kimi-k3",
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3",
             "title": "新闻烟火｜Kimi K3：登顶与拷问之间，站着315亿美元的估值",
             "date_modified": "2026-07-18T00:00:00.000Z",
             "date_published": "2026-07-18T00:00:00.000Z",
@@ -35,9 +35,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-yan-huo-github-re-bang-2026-07-17",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-yan-huo-github-re-bang-2026-07-17\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-yan-huo-github-re-bang-2026-07-17</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-yan-huo-github-re-bang-2026-07-17",
+            "id": "https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17",
             "title": "代码烟火｜GitHub 热榜 · 本周值得关注的开源项目",
             "date_modified": "2026-07-17T00:00:00.000Z",
             "date_published": "2026-07-17T00:00:00.000Z",
@@ -47,9 +47,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.8;letter-spacing<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang",
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.8;letter-spacing<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang",
             "title": "新闻烟火｜AI摄影获奖：艺术已死，评委已瞎",
             "date_modified": "2026-07-15T00:00:00.000Z",
             "date_published": "2026-07-15T00:00:00.000Z",
@@ -59,9 +59,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.8;letter-spacing<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing",
+            "id": "https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.8;letter-spacing<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing",
             "title": "柱状图中最大的矩形（LeetCode 84）",
             "date_modified": "2026-07-13T00:00:00.000Z",
             "date_published": "2026-07-13T00:00:00.000Z",
@@ -71,9 +71,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-a-gan-zheng-zhuan",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 2;letter-spacing: <br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-a-gan-zheng-zhuan\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-a-gan-zheng-zhuan</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-a-gan-zheng-zhuan",
+            "id": "https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 2;letter-spacing: <br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan",
             "title": "银幕烟火｜《阿甘正传》",
             "date_modified": "2026-07-12T00:00:00.000Z",
             "date_published": "2026-07-12T00:00:00.000Z",
@@ -83,9 +83,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu",
-            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu",
+            "id": "https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu",
+            "content_html": "<div class=\"wechat-article\"><section data-pm-slice=\"0 0 []\" style=\"line-height: 1.6;letter-spacing<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu",
             "title": "银幕烟火｜《肖申克的救赎》",
             "date_modified": "2026-07-11T00:00:00.000Z",
             "date_published": "2026-07-11T00:00:00.000Z",
@@ -95,9 +95,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-jin-chu-meng-luo-wu-sheng",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/lv-deng-jin-chu-meng-luo-wu-sheng.jpg\" alt=\"题图\"></p>\n<p>书卷藏日月，步履阅山河。有些文字从不必喧嚣张扬，只消轻轻摊开，便有鎏金岁</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-jin-chu-meng-luo-wu-sheng\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-jin-chu-meng-luo-wu-sheng</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-jin-chu-meng-luo-wu-sheng",
+            "id": "https://sunfleeting-debug.github.io/posts/lv-deng-jin-chu-meng-luo-wu-sheng",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/lv-deng-jin-chu-meng-luo-wu-sheng.jpg\" alt=\"题图\"></p>\n<p>书卷藏日月，步履阅山河。有些文字从不必喧嚣张扬，只消轻轻摊开，便有鎏金岁</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/lv-deng-jin-chu-meng-luo-wu-sheng\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/lv-deng-jin-chu-meng-luo-wu-sheng</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/lv-deng-jin-chu-meng-luo-wu-sheng",
             "title": "绿灯烬处，梦落无声",
             "date_modified": "2026-04-05T00:00:00.000Z",
             "date_published": "2026-04-05T00:00:00.000Z",
@@ -107,9 +107,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-wei-xi-gu-ying-chang-liu",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/lv-deng-wei-xi-gu-ying-chang-liu.jpg\" alt=\"题图\"></p>\n<p><em>——致被误读的《了不起的盖茨比》</em></p>\n<p>合上书页的深夜，窗外的晚风都带</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-wei-xi-gu-ying-chang-liu\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-wei-xi-gu-ying-chang-liu</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/lv-deng-wei-xi-gu-ying-chang-liu",
+            "id": "https://sunfleeting-debug.github.io/posts/lv-deng-wei-xi-gu-ying-chang-liu",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/lv-deng-wei-xi-gu-ying-chang-liu.jpg\" alt=\"题图\"></p>\n<p><em>——致被误读的《了不起的盖茨比》</em></p>\n<p>合上书页的深夜，窗外的晚风都带</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/lv-deng-wei-xi-gu-ying-chang-liu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/lv-deng-wei-xi-gu-ying-chang-liu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/lv-deng-wei-xi-gu-ying-chang-liu",
             "title": "绿灯未熄，孤影长留",
             "date_modified": "2026-03-22T00:00:00.000Z",
             "date_published": "2026-03-22T00:00:00.000Z",
@@ -119,9 +119,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-feng-li-de-feng-jing-xian",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/chun-feng-li-de-feng-jing-xian.jpg\" alt=\"题图\"></p>\n<p>春风送暖，催开陌上繁花，也勾勒出校园里最动人的“锋”景线。这抹风景，无关惊天壮</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-feng-li-de-feng-jing-xian\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-feng-li-de-feng-jing-xian</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-feng-li-de-feng-jing-xian",
+            "id": "https://sunfleeting-debug.github.io/posts/chun-feng-li-de-feng-jing-xian",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/chun-feng-li-de-feng-jing-xian.jpg\" alt=\"题图\"></p>\n<p>春风送暖，催开陌上繁花，也勾勒出校园里最动人的“锋”景线。这抹风景，无关惊天壮</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/chun-feng-li-de-feng-jing-xian\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/chun-feng-li-de-feng-jing-xian</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/chun-feng-li-de-feng-jing-xian",
             "title": "春风里的“锋”景线",
             "date_modified": "2026-03-07T00:00:00.000Z",
             "date_published": "2026-03-07T00:00:00.000Z",
@@ -131,9 +131,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/feng-zai-qing-huan-ji-wo-xin-qi",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/feng-zai-qing-huan-ji-wo-xin-qi.jpg\" alt=\"题图\"></p>\n<p>风是春天的邮差，它不说话，却能把心底最软的那部分，轻轻递到想去的地方。我总在</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/feng-zai-qing-huan-ji-wo-xin-qi\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/feng-zai-qing-huan-ji-wo-xin-qi</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/feng-zai-qing-huan-ji-wo-xin-qi",
+            "id": "https://sunfleeting-debug.github.io/posts/feng-zai-qing-huan-ji-wo-xin-qi",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/feng-zai-qing-huan-ji-wo-xin-qi.jpg\" alt=\"题图\"></p>\n<p>风是春天的邮差，它不说话，却能把心底最软的那部分，轻轻递到想去的地方。我总在</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/feng-zai-qing-huan-ji-wo-xin-qi\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/feng-zai-qing-huan-ji-wo-xin-qi</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/feng-zai-qing-huan-ji-wo-xin-qi",
             "title": "风载清欢，寄我心期",
             "date_modified": "2026-03-07T00:00:00.000Z",
             "date_published": "2026-03-07T00:00:00.000Z",
@@ -143,9 +143,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/cang-zai-yi-gui-li-de-pao-mian",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/cang-zai-yi-gui-li-de-pao-mian.jpg\" alt=\"题图\"></p>\n<p>至今想起初中那段日子，鼻尖仿佛还飘着泡面的香气——那是青春期特有的味道，混着欲</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/cang-zai-yi-gui-li-de-pao-mian\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/cang-zai-yi-gui-li-de-pao-mian</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/cang-zai-yi-gui-li-de-pao-mian",
+            "id": "https://sunfleeting-debug.github.io/posts/cang-zai-yi-gui-li-de-pao-mian",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/cang-zai-yi-gui-li-de-pao-mian.jpg\" alt=\"题图\"></p>\n<p>至今想起初中那段日子，鼻尖仿佛还飘着泡面的香气——那是青春期特有的味道，混着欲</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/cang-zai-yi-gui-li-de-pao-mian\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/cang-zai-yi-gui-li-de-pao-mian</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/cang-zai-yi-gui-li-de-pao-mian",
             "title": "藏在衣柜里的泡面",
             "date_modified": "2025-12-02T00:00:00.000Z",
             "date_published": "2025-12-02T00:00:00.000Z",
@@ -155,9 +155,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/shan-he-cang-xin-qu",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/shan-he-cang-xin-qu.jpg\" alt=\"题图\"></p>\n<p>高中三年的课表上，地理课总带着些特殊的分量——不是因为考点繁杂，而是因为那位执掌讲台的徐孟良老师。在</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/shan-he-cang-xin-qu\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/shan-he-cang-xin-qu</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/shan-he-cang-xin-qu",
+            "id": "https://sunfleeting-debug.github.io/posts/shan-he-cang-xin-qu",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/shan-he-cang-xin-qu.jpg\" alt=\"题图\"></p>\n<p>高中三年的课表上，地理课总带着些特殊的分量——不是因为考点繁杂，而是因为那位执掌讲台的徐孟良老师。在</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/shan-he-cang-xin-qu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/shan-he-cang-xin-qu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/shan-he-cang-xin-qu",
             "title": "山河藏心曲",
             "date_modified": "2025-12-02T00:00:00.000Z",
             "date_published": "2025-12-02T00:00:00.000Z",
@@ -167,9 +167,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-xing-jian-you-nuan-yi",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/dai-ma-xing-jian-you-nuan-yi.jpg\" alt=\"题图\"></p>\n<p>中南大学14舍的212寝室，是我和三位舍友的“代码基地”。大一这年，课程里的算法、</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-xing-jian-you-nuan-yi\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-xing-jian-you-nuan-yi</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/dai-ma-xing-jian-you-nuan-yi",
+            "id": "https://sunfleeting-debug.github.io/posts/dai-ma-xing-jian-you-nuan-yi",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/dai-ma-xing-jian-you-nuan-yi.jpg\" alt=\"题图\"></p>\n<p>中南大学14舍的212寝室，是我和三位舍友的“代码基地”。大一这年，课程里的算法、</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/dai-ma-xing-jian-you-nuan-yi\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/dai-ma-xing-jian-you-nuan-yi</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/dai-ma-xing-jian-you-nuan-yi",
             "title": "代码行间有暖意，寝室四友共青春",
             "date_modified": "2025-11-17T00:00:00.000Z",
             "date_published": "2025-11-17T00:00:00.000Z",
@@ -179,9 +179,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo.jpg\" alt=\"题图\"></p>\n<blockquote>\n<p><strong>主题</strong>：在信息时代，我们或许都会被标签，被定义，被分类，太多</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo",
+            "id": "https://sunfleeting-debug.github.io/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo.jpg\" alt=\"题图\"></p>\n<blockquote>\n<p><strong>主题</strong>：在信息时代，我们或许都会被标签，被定义，被分类，太多</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo",
             "title": "我与我周旋久，宁作我",
             "date_modified": "2025-10-08T00:00:00.000Z",
             "date_published": "2025-10-08T00:00:00.000Z",
@@ -191,9 +191,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing.jpg\" alt=\"题图\"></p>\n<p>高三那年的春天，宛如一幅被大自然精心雕琢的绝美画卷，在校园里徐徐展开</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing",
+            "id": "https://sunfleeting-debug.github.io/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing.jpg\" alt=\"题图\"></p>\n<p>高三那年的春天，宛如一幅被大自然精心雕琢的绝美画卷，在校园里徐徐展开</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing",
             "title": "春日里，我们各自的诗行",
             "date_modified": "2025-03-04T00:00:00.000Z",
             "date_published": "2025-03-04T00:00:00.000Z",
@@ -203,9 +203,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/du-si-bu-chuang-ye-fa",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/du-si-bu-chuang-ye-fa.jpg\" alt=\"题图\"></p>\n<p>身为一名怀揣创业梦想的中南学子，在这个充满机遇与挑战的时代，我时常思索着如何踏出创新创业的第一步</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/du-si-bu-chuang-ye-fa\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/du-si-bu-chuang-ye-fa</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/du-si-bu-chuang-ye-fa",
+            "id": "https://sunfleeting-debug.github.io/posts/du-si-bu-chuang-ye-fa",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/du-si-bu-chuang-ye-fa.jpg\" alt=\"题图\"></p>\n<p>身为一名怀揣创业梦想的中南学子，在这个充满机遇与挑战的时代，我时常思索着如何踏出创新创业的第一步</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/du-si-bu-chuang-ye-fa\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/du-si-bu-chuang-ye-fa</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/du-si-bu-chuang-ye-fa",
             "title": "读《四步创业法》：大学生创新创业的探索与思索",
             "date_modified": "2025-02-24T00:00:00.000Z",
             "date_published": "2025-02-24T00:00:00.000Z",
@@ -215,9 +215,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/duo-jin-2025-guan-hou-gan",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/duo-jin-2025-guan-hou-gan.jpg\" alt=\"题图\"></p>\n<p>作为一名中南大学的学生，当我看到《夺金 2025》这个节目时，内心就充满了期待。而当节目</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/duo-jin-2025-guan-hou-gan\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/duo-jin-2025-guan-hou-gan</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/duo-jin-2025-guan-hou-gan",
+            "id": "https://sunfleeting-debug.github.io/posts/duo-jin-2025-guan-hou-gan",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/duo-jin-2025-guan-hou-gan.jpg\" alt=\"题图\"></p>\n<p>作为一名中南大学的学生，当我看到《夺金 2025》这个节目时，内心就充满了期待。而当节目</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/duo-jin-2025-guan-hou-gan\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/duo-jin-2025-guan-hou-gan</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/duo-jin-2025-guan-hou-gan",
             "title": "《夺金 2025》观后感：品中南榜样之姿，悟创业济世之怀",
             "date_modified": "2025-02-24T00:00:00.000Z",
             "date_published": "2025-02-24T00:00:00.000Z",
@@ -227,9 +227,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ding-ji-fen-zui-you-hong-li-ce-lue",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/ding-ji-fen-zui-you-hong-li-ce-lue.jpg\" alt=\"题图\"></p>\n<h2>摘要</h2>\n<p>本文深入探讨了定积分在最优红利策略制定中的重要作用。</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ding-ji-fen-zui-you-hong-li-ce-lue\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ding-ji-fen-zui-you-hong-li-ce-lue</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ding-ji-fen-zui-you-hong-li-ce-lue",
+            "id": "https://sunfleeting-debug.github.io/posts/ding-ji-fen-zui-you-hong-li-ce-lue",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/ding-ji-fen-zui-you-hong-li-ce-lue.jpg\" alt=\"题图\"></p>\n<h2>摘要</h2>\n<p>本文深入探讨了定积分在最优红利策略制定中的重要作用。</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/ding-ji-fen-zui-you-hong-li-ce-lue\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/ding-ji-fen-zui-you-hong-li-ce-lue</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/ding-ji-fen-zui-you-hong-li-ce-lue",
             "title": "定积分在最优红利策略中的应用与分析",
             "date_modified": "2024-12-25T00:00:00.000Z",
             "date_published": "2024-12-25T00:00:00.000Z",
@@ -239,9 +239,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/pai-huai-zai-ye-de-jin-tou",
-            "content_html": "<p><img src=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/images/posts/pai-huai-zai-ye-de-jin-tou.jpg\" alt=\"题图\"></p>\n<p><strong>主题</strong>：人生路漫漫，却迷雾重重，何处是归途？你曾徘徊在夜的尽头，寻觅那丢失的方向</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/pai-huai-zai-ye-de-jin-tou\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/pai-huai-zai-ye-de-jin-tou</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/pai-huai-zai-ye-de-jin-tou",
+            "id": "https://sunfleeting-debug.github.io/posts/pai-huai-zai-ye-de-jin-tou",
+            "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/pai-huai-zai-ye-de-jin-tou.jpg\" alt=\"题图\"></p>\n<p><strong>主题</strong>：人生路漫漫，却迷雾重重，何处是归途？你曾徘徊在夜的尽头，寻觅那丢失的方向</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/pai-huai-zai-ye-de-jin-tou\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/pai-huai-zai-ye-de-jin-tou</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/pai-huai-zai-ye-de-jin-tou",
             "title": "徘徊在夜的尽头",
             "date_modified": "2024-10-04T00:00:00.000Z",
             "date_published": "2024-10-04T00:00:00.000Z",
@@ -251,9 +251,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这批周记里最长、最野、也最残缺的一篇，整整六页。他写自己原是沸腾大海里的一块岩石，后来成了水母，结识一只灯塔水母，随鱼群去太平洋猎食，最后在梦里转世为人，在杭州府为百姓修江堤，</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si",
+            "id": "https://sunfleeting-debug.github.io/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这批周记里最长、最野、也最残缺的一篇，整整六页。他写自己原是沸腾大海里的一块岩石，后来成了水母，结识一只灯塔水母，随鱼群去太平洋猎食，最后在梦里转世为人，在杭州府为百姓修江堤，</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/bai-ri-meng-wo-gao-san-zhou-ji-shi-si",
             "title": "白日梦我——高三周记拾遗（十四）",
             "date_modified": "2023-09-10T00:00:00.000Z",
             "date_published": "2023-09-10T00:00:00.000Z",
@@ -263,9 +263,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：一篇很可爱的小科普。正午看不见彩虹，是因为彩虹永远出现在与太阳光线成 42 度角的方向——太阳一高，它就藏到地平线下面去了。写到最后他顺手把它变成了人生道理，还吐槽了一部在正午</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san",
+            "id": "https://sunfleeting-debug.github.io/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：一篇很可爱的小科普。正午看不见彩虹，是因为彩虹永远出现在与太阳光线成 42 度角的方向——太阳一高，它就藏到地平线下面去了。写到最后他顺手把它变成了人生道理，还吐槽了一部在正午</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/42-du-jiao-de-cai-hong-gao-san-zhou-ji-shi-san",
             "title": "42度角的彩虹——高三周记拾遗（十三）",
             "date_modified": "2023-09-06T00:00:00.000Z",
             "date_published": "2023-09-06T00:00:00.000Z",
@@ -275,9 +275,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周他挑了班里一个不太好意思说破的现象开篇，然后用一张 1927 年的合影和一个经济学原理把它讲透了。老师的两处红批都留着：一处是「我们要共同促进，共同提高！」，一处是文末的</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er",
+            "id": "https://sunfleeting-debug.github.io/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周他挑了班里一个不太好意思说破的现象开篇，然后用一张 1927 年的合影和一个经济学原理把它讲透了。老师的两处红批都留着：一处是「我们要共同促进，共同提高！」，一处是文末的</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/qing-quan-shi-jie-de-ren-du-bi-wo-cong-ming-gao-san-zhou-ji-shi-er",
             "title": "请全世界的人都比我聪明——高三周记拾遗（十二）",
             "date_modified": "2023-08-29T00:00:00.000Z",
             "date_published": "2023-08-29T00:00:00.000Z",
@@ -287,9 +287,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周写了两件事，看起来不相干，其实是一件事：一台机器、一套制度，本来都该服务人，却常常反过来把人捏在手里。前半篇说算法，后半篇说维权，最后一句是全文的落点——「求取共识，而不</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi",
+            "id": "https://sunfleeting-debug.github.io/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周写了两件事，看起来不相干，其实是一件事：一台机器、一套制度，本来都该服务人，却常常反过来把人捏在手里。前半篇说算法，后半篇说维权，最后一句是全文的落点——「求取共识，而不</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/hu-lian-wang-suan-fa-xiao-fei-de-ren-men-gao-san-zhou-ji-shi-yi",
             "title": "互联网算法，制度的“归人”——高三周记拾遗（十一）",
             "date_modified": "2023-08-24T00:00:00.000Z",
             "date_published": "2023-08-24T00:00:00.000Z",
@@ -299,9 +299,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一篇是<strong>用文言写的</strong>——放假被锁在学校里，于是翻墙出去打球，回家路上又遇上一场解暑的雨。老师的红批很实在：「翻墙要注意安全，一旦出现伤害，可不是小事！」</p>\n</blockquote>\n<h2>7月</h2>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu",
+            "id": "https://sunfleeting-debug.github.io/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一篇是<strong>用文言写的</strong>——放假被锁在学校里，于是翻墙出去打球，回家路上又遇上一场解暑的雨。老师的红批很实在：「翻墙要注意安全，一旦出现伤害，可不是小事！」</p>\n</blockquote>\n<h2>7月</h2>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/ji-fang-jia-yu-ming-de-gao-san-zhou-ji-jiu",
             "title": "记放假困于明德——高三周记拾遗（九）",
             "date_modified": "2023-07-20T00:00:00.000Z",
             "date_published": "2023-07-20T00:00:00.000Z",
@@ -311,9 +311,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：同一天的第二篇，也是这批周记里我最喜欢的一篇。他观察那些独来独往的同学，本以为他们&quot;好孤独啊&quot;，后来在江西一座只有一棵树的岛上想明白了：那棵树有微风、有飞鸟、有阳光和晚霞，是这</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi",
+            "id": "https://sunfleeting-debug.github.io/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：同一天的第二篇，也是这批周记里我最喜欢的一篇。他观察那些独来独往的同学，本以为他们&quot;好孤独啊&quot;，后来在江西一座只有一棵树的岛上想明白了：那棵树有微风、有飞鸟、有阳光和晚霞，是这</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/wo-ke-neng-shi-yi-ge-shuo-bu-ai-zi-you-de-ren-gao-san-zhou-ji-shi",
             "title": "我可能是一个说不爱自由的人——高三周记拾遗（十）",
             "date_modified": "2023-07-20T00:00:00.000Z",
             "date_published": "2023-07-20T00:00:00.000Z",
@@ -323,9 +323,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周他把&quot;孤独&quot;拆成了三层，分别对着&quot;寂寞&quot;&quot;沙洲&quot;&quot;冷&quot;三个字——对应哲学的、精神的、情绪的三重缺席。中间抄录了一段关于神学院的资料（字迹未能辨识），末页还夹了一句意大利语</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi",
+            "id": "https://sunfleeting-debug.github.io/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周他把&quot;孤独&quot;拆成了三层，分别对着&quot;寂寞&quot;&quot;沙洲&quot;&quot;冷&quot;三个字——对应哲学的、精神的、情绪的三重缺席。中间抄录了一段关于神学院的资料（字迹未能辨识），末页还夹了一句意大利语</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/ji-mo-sha-zhou-leng-gao-san-zhou-ji-qi",
             "title": "寂寞沙洲冷——高三周记拾遗（七）",
             "date_modified": "2023-07-16T00:00:00.000Z",
             "date_published": "2023-07-16T00:00:00.000Z",
@@ -335,9 +335,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：同一天写的第二篇。由一粒灰尘的物理尺度起笔，写一块石头如何被磨成沙、化成尘埃、飞上一万米的高空——然后说，这是为了记一部讲校园霸凌的韩国片子。</p>\n</blockquote>\n<h2>7月16日</h2>\n<blockquote></blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba",
+            "id": "https://sunfleeting-debug.github.io/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：同一天写的第二篇。由一粒灰尘的物理尺度起笔，写一块石头如何被磨成沙、化成尘埃、飞上一万米的高空——然后说，这是为了记一部讲校园霸凌的韩国片子。</p>\n</blockquote>\n<h2>7月16日</h2>\n<blockquote></blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/yi-kuai-shi-tou-de-lv-cheng-gao-san-zhou-ji-ba",
             "title": "一块石头的旅程——高三周记拾遗（八）",
             "date_modified": "2023-07-16T00:00:00.000Z",
             "date_published": "2023-07-16T00:00:00.000Z",
@@ -347,9 +347,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-de-jian-ju-gao-san-zhou-ji-liu",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周只有一页，而且是用几个小故事讲的——大概是怕直说，老师不爱听。老师的红批正好接住了这个顾虑，写得比周记本身还长。</p>\n</blockquote>\n<h2>7月15日</h2>\n<p>想表达一些东西，但又怕肖老</p>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-de-jian-ju-gao-san-zhou-ji-liu\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-de-jian-ju-gao-san-zhou-ji-liu</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/ai-de-jian-ju-gao-san-zhou-ji-liu",
+            "id": "https://sunfleeting-debug.github.io/posts/ai-de-jian-ju-gao-san-zhou-ji-liu",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周只有一页，而且是用几个小故事讲的——大概是怕直说，老师不爱听。老师的红批正好接住了这个顾虑，写得比周记本身还长。</p>\n</blockquote>\n<h2>7月15日</h2>\n<p>想表达一些东西，但又怕肖老</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/ai-de-jian-ju-gao-san-zhou-ji-liu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/ai-de-jian-ju-gao-san-zhou-ji-liu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/ai-de-jian-ju-gao-san-zhou-ji-liu",
             "title": "爱的间距——高三周记拾遗（六）",
             "date_modified": "2023-07-15T00:00:00.000Z",
             "date_published": "2023-07-15T00:00:00.000Z",
@@ -359,9 +359,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周读的是隔花人的小诗《自我》，只有四行。他借着那盏&quot;墙上的灯&quot;一路想开去：灯的选择、人心的长明灯、蜈蚣的腿、西西弗斯的石头、君子兰与虞美人——最后收在&quot;高三了，应该纯粹一点</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu",
+            "id": "https://sunfleeting-debug.github.io/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：这一周读的是隔花人的小诗《自我》，只有四行。他借着那盏&quot;墙上的灯&quot;一路想开去：灯的选择、人心的长明灯、蜈蚣的腿、西西弗斯的石头、君子兰与虞美人——最后收在&quot;高三了，应该纯粹一点</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/deng-zai-qiang-shang-de-tou-ying-gao-san-zhou-ji-wu",
             "title": "灯在墙上的投影——高三周记拾遗（五）",
             "date_modified": "2023-07-11T00:00:00.000Z",
             "date_published": "2023-07-11T00:00:00.000Z",
@@ -371,9 +371,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：原稿页眉写的是「6月31日」——六月并没有三十一号，大约是写顺了手。这一篇从&quot;我们这些不会写诗的人&quot;起笔，写到一位会写诗的同学，写到青春期那点伤感的自我想象，最后落在一句很漂亮</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si",
+            "id": "https://sunfleeting-debug.github.io/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：原稿页眉写的是「6月31日」——六月并没有三十一号，大约是写顺了手。这一篇从&quot;我们这些不会写诗的人&quot;起笔，写到一位会写诗的同学，写到青春期那点伤感的自我想象，最后落在一句很漂亮</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/bu-hui-xie-shi-de-wo-men-gao-san-zhou-ji-si",
             "title": "不会写诗的我们——高三周记拾遗（四）",
             "date_modified": "2023-06-30T00:00:00.000Z",
             "date_published": "2023-06-30T00:00:00.000Z",
@@ -383,9 +383,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：高三周记第三弹。这一周第一次在周记里写散文，笔名落的是「转瞬即逝」——如今网名还是它。写四季，写朋友们，写食堂里的一对情侣，也写理想。老师的红笔总结：「那些人，那些事，那些情，</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san",
+            "id": "https://sunfleeting-debug.github.io/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：高三周记第三弹。这一周第一次在周记里写散文，笔名落的是「转瞬即逝」——如今网名还是它。写四季，写朋友们，写食堂里的一对情侣，也写理想。老师的红笔总结：「那些人，那些事，那些情，</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xia-zhi-wei-zhi-gao-san-zhou-ji-san",
             "title": "夏至未至——高三周记拾遗（三）",
             "date_modified": "2023-05-24T00:00:00.000Z",
             "date_published": "2023-05-24T00:00:00.000Z",
@@ -395,9 +395,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-jian-xing-gao-san-zhou-ji-er",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：高三周记第二弹。这一周没写散文，通篇是少年意气的四言诗——写给同窗，写给班级，也写给那时心里的江湖。红笔是老师的批语：「有情怀，有用心，值得共同打造，铭记高中岁月。」落款 4.</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-jian-xing-gao-san-zhou-ji-er\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-jian-xing-gao-san-zhou-ji-er</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/xia-jian-xing-gao-san-zhou-ji-er",
+            "id": "https://sunfleeting-debug.github.io/posts/xia-jian-xing-gao-san-zhou-ji-er",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：高三周记第二弹。这一周没写散文，通篇是少年意气的四言诗——写给同窗，写给班级，也写给那时心里的江湖。红笔是老师的批语：「有情怀，有用心，值得共同打造，铭记高中岁月。」落款 4.</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xia-jian-xing-gao-san-zhou-ji-er\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xia-jian-xing-gao-san-zhou-ji-er</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xia-jian-xing-gao-san-zhou-ji-er",
             "title": "侠歌行——高三周记拾遗（二）",
             "date_modified": "2023-04-25T00:00:00.000Z",
             "date_published": "2023-04-25T00:00:00.000Z",
@@ -407,9 +407,9 @@
             }
         },
         {
-            "id": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji",
-            "content_html": "<blockquote>\n<p><strong>编者按</strong>：收拾旧物时翻出了高三的周记本。那一年换了新本子，第一篇周记写的是&quot;新周记、新时代&quot;，后来又陆陆续续在本子上写了不少歪诗。现在把这些手稿一个字一个字敲出来，存个档。字是高中时的字</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji\" target=\"_blank\">https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji</a> 阅读全文。</p>",
-            "url": "https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji",
+            "id": "https://sunfleeting-debug.github.io/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji",
+            "content_html": "<blockquote>\n<p><strong>编者按</strong>：收拾旧物时翻出了高三的周记本。那一年换了新本子，第一篇周记写的是&quot;新周记、新时代&quot;，后来又陆陆续续在本子上写了不少歪诗。现在把这些手稿一个字一个字敲出来，存个档。字是高中时的字</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/yi-shi-ci-jian-shao-nian-gao-san-zhou-ji",
             "title": "亦是此间少年——高三周记拾遗（一）",
             "date_modified": "2023-04-17T00:00:00.000Z",
             "date_published": "2023-04-17T00:00:00.000Z",
