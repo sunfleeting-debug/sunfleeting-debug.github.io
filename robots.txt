@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a21082922c4d43b189c3eb0686d00564.app.workbuddy.host/sitemap.xml
