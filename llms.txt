@@ -4,6 +4,9 @@
 
 ## Posts
 
+- [此刻星火，来日长明](https://sunfleeting-debug.github.io/posts/ci-ke-xing-huo-lai-ri-chang-ming.md)
+- [落叶为笺，秋以为期](https://sunfleeting-debug.github.io/posts/luo-ye-wei-jian-qiu-yi-wei-qi.md)
+- [行囊深处，故乡未远](https://sunfleeting-debug.github.io/posts/xing-nang-shen-chu-gu-xiang-wei-yuan.md)
 - [新闻烟火｜AI换脸、AI复活、AI偷声——最高法终于把“AI生成”这块免死金牌砸了](https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian.md)
 - [新闻烟火｜Kimi K3：登顶与拷问之间，站着315亿美元的估值](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3.md)
 - [代码烟火｜GitHub 热榜 · 本周值得关注的开源项目](https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17.md)
