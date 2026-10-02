@@ -1,0 +1,1 @@
+import{G as e,Jt as t,Sr as n,Vt as r,Z as i,bn as a,ft as o,t as s}from"./framework.Cldvlalf.js";import{w as c}from"./theme.CkXbII6G.js";import"./chunks/vue-i18n.CupbyWKu.js";var l={};function u(s,l){let u=c;return r(),e(u,null,i({_:2},[s.$slots.header?{name:`header`,fn:a(e=>[t(s.$slots,`header`,n(o(e)))]),key:`0`}:void 0]),1024)}var d=s(l,[[`render`,u]]);export{d as default};
