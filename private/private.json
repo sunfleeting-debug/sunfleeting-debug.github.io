@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "cipher": "AES-256-GCM",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 310000,
+    "salt": "wfVc8zPwO7XzJuH2PiUFog=="
+  },
+  "catalog": "catalog.enc"
+}
