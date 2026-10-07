@@ -1,6 +1,7 @@
 ---
 title: 此刻星火，来日长明
 date: '2026-09-25'
+top: 3
 categories: 随笔
 tags:
   - 秋天

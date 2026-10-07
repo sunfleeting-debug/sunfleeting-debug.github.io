@@ -1,6 +1,7 @@
 ---
 title: 行囊深处，故乡未远
 date: '2026-09-25'
+top: 1
 categories: 随笔
 tags:
   - 秋天
