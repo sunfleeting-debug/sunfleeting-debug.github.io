@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html  lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.svg">
+    <script>
+    ;(function () {
+      const prefersDark =
+        window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches
+      const setting = localStorage.getItem('vueuse-color-scheme') || 'auto'
+      if (setting === 'dark' || (prefersDark && setting !== 'light'))
+        document.documentElement.classList.toggle('dark', true)
+    })()
+    </script>
+  <style type="text/css">
+    :root { color-scheme: light dark; --va-c-bg: #fff; }
+    html.dark { --va-c-bg: #000; }
+    html { background-color: var(--va-c-bg); }
+  </style><style id="valaxy-fouc">body{opacity:0!important}</style><style>body{transition:opacity .15s ease}</style><noscript><style>body{opacity:1!important}</style></noscript><script>(function foucGuardScript(maxDuration) {
+  var done = 0;
+  function reveal() {
+    if (done) return;
+    done = 1;
+    var s = document.getElementById("valaxy-fouc");
+    if (s) s.remove();
+  }
+  function check() {
+    var links = document.querySelectorAll('link[rel="stylesheet"]');
+    for (var i = 0; i < links.length; i++) {
+      if (!links[i].sheet) return;
+    }
+    reveal();
+  }
+  new MutationObserver(check).observe(document.head, {
+    childList: true,
+    attributes: true,
+    attributeFilter: ["media", "rel"]
+  });
+  addEventListener("load", reveal);
+  if (maxDuration)
+    setTimeout(reveal, maxDuration);
+})(5000)</script>
+    <script>
+    const locale = localStorage.getItem('valaxy-locale') || 'zh-CN';
+    document.documentElement.setAttribute('lang', locale);
+    </script>
+    
+<!--
+    ⚠️ 本文件 head 区 / body 区的片段会被 valaxy 注入到**每个页面**里
+       （见 packages/valaxy/node/common.ts 的 getIndexHtml()：读 userRoot 与
+        themeRoot 下本文件的片段，填进模板的两个占位注释）。
+
+    🔴 反闪烁脚本必须放在这里，不能挪进 Vue 组件：
+       组件要等 JS 水合后才跑，那样首屏会先按默认字体画一帧、再跳成用户选的字体
+       —— 肉眼可见的抖动（FOUC）。放 head 区就在首帧之前设好了。
+       （语言 lang 的反闪烁脚本同理，是 valaxy 自己在 common.ts 里内置注入的。）
+
+    ⚠️ 原来这里躺着上游 demo 的 TEST_INJECT_HEAD / TEST_INJECT_BODY，
+       它们会被注入**全部页面**、真的显示在线上。已清掉；
+       全仓库没有任何代码引用它们（grep 过）。
+
+    🔴🔴 千万别在这段注释里写出 head / body 那四个尖括号标签名（开闭都算）：
+       getIndexHtml() 是用「非贪婪 + 首次匹配」的正则去截片段的，
+       注释里只要出现一次，切割位置就被带偏成注释内部 ——
+       后果是这段注释的残文漏进 body、**在每页顶部和底部各渲染成一行可见文字**，
+       同时触发 Vue 的「Hydration completed but contains mismatches」告警。
+       2026-10-03 踩过：每页漏两处、每处 1200×117px，排查了很久才定位到。
+  -->
+  <script>
+    ;(function () {
+      try {
+        var f = localStorage.getItem('site-font')
+        if (f === 'sans' || f === 'serif' || f === 'kai')
+          document.documentElement.setAttribute('data-font', f)
+      }
+      catch (e) {}
+    })()
+  </script>
+  <script type="module" crossorigin src="/assets/index.a0A7aTnj.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime.hePW80VL.js">
+  <link rel="modulepreload" crossorigin href="/assets/framework.Cldvlalf.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/vue-i18n.CupbyWKu.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/vue-router.hfv9H_Gq.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/dayjs.Ds-6csIR.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/pinia.BdcYf4H_.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/@vueuse/motion.CULvqS2Q.js">
+  <link rel="modulepreload" crossorigin href="/assets/theme.CIa_j5nL.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/nprogress.Dew4DlVv.js">
+  <link rel="stylesheet" crossorigin href="/assets/style.89ckBdk5.css">
+<link rel="preload" href="/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_AMS-Regular.DMm9YOAa.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Bold.Cx986IdX.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Bold.Jm3AIy58.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Italic.BMLOBm91.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Regular.B22Nviop.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Regular.Dr94JaBh.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-Italic.t53AETM-.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-Italic.DA0__PXp.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Script-Regular.D3wIWfF6.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Script-Regular.D5yQViql.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size1-Regular.C195tn64.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size2-Regular.oD1tc_U0.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size3-Regular.CTq5MqoE.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size4-Regular.BF-4gkZK.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff" as="font" type="font/woff" crossorigin>
+<link rel="modulepreload" crossorigin href="/assets/theme.CIa_j5nL.js">
+<link rel="preload" href="/assets/none.DLM1AMsD.jpg" as="image">
+<link rel="preload" href="/assets/bg-img.kXdNMxcF.jpg" as="image">
+<link rel="preload" href="/assets/sidebar-bg-img.mp54gEws.webp" as="image">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>尺K空间 - 启明星-长庚星</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap">
+<meta property="og:locale:alternate" content="en">
+<meta name="description" content="转瞬即逝的，都记在这里">
+<meta property="og:description" content="转瞬即逝的，都记在这里">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:site_name" content="启明星-长庚星">
+<meta property="og:title" content="尺K空间">
+<meta property="og:image" content="https://sunfleeting-debug.github.io/favicon.svg">
+<meta property="og:image:alt" content="尺K空间">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://sunfleeting-debug.github.io/chi-k">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="转瞬即逝的，都记在这里">
+<meta name="twitter:image" content="https://sunfleeting-debug.github.io/favicon.svg">
+<meta name="twitter:title" content="尺K空间">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta name="generator" content="Valaxy 1.0.0-rc.15">
+<link rel="canonical" href="https://sunfleeting-debug.github.io/chi-k">
+<meta name="theme-color" content="#fff">
+<meta name="msapplication-TileColor" content="#fff">
+<link rel="alternate" type="application/atom+xml" href="/atom.xml" title="启明星-长庚星" data-fix-dist="1">
+<link rel="alternate" type="application/rss+xml" href="/feed.xml" title="启明星-长庚星" data-fix-dist="1">
+</head>
+<body>
+  <div id="app"><!--[--><!--[--><!--[--><!--v-if--><div class="yun-page-header-gradient"></div><div class="yun-nav-menu z-$yun-z-nav-menu fixed bg-transparent is-glass" data-v-ca14949c><!--  --><div class="inline-flex justify-start items-center flex-1" data-v-ca14949c><button type="button" class="vt-hamburger menu-btn sidebar-toggle leading-4 size-12 lg:hidden!" aria-label="mobile navigation" aria-expanded="false" inline-flex cursor="pointer" hover="bg-white/80 dark:bg-black/80" z="$yun-z-menu-btn" data-v-ca14949c><span class="vt-hamburger-container"><span class="vt-hamburger-top"></span><span class="vt-hamburger-middle"></span><span class="vt-hamburger-bottom"></span></span></button><a href="/" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 data-v-ca14949c><!--[--><div class="size-6 i-ri-home-4-line"></div><!--]--></a><div class="hidden lg:contents" data-v-ca14949c><!--[--><a href="/posts/" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="文章" data-v-ca14949c><!--[--><div class="size-6 i-ri-article-line"></div><!--]--></a><a href="/research" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="科研" data-v-ca14949c><!--[--><div class="size-6 i-ri-flask-line"></div><!--]--></a><a href="/moments/" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="小随想" data-v-ca14949c><!--[--><div class="size-6 i-ri-chat-1-line"></div><!--]--></a><a href="/projects" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="项目列表" data-v-ca14949c><!--[--><div class="size-6 i-ri-gallery-view"></div><!--]--></a><a href="/albums" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="相册" data-v-ca14949c><!--[--><div class="size-6 i-ri-image-line"></div><!--]--></a><a href="/links/" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="友情链接" data-v-ca14949c><!--[--><div class="size-6 i-ri-link"></div><!--]--></a><a href="/about" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="关于" data-v-ca14949c><!--[--><div class="size-6 i-ri-user-line"></div><!--]--></a><a href="/sponsors/" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="赞助者们" data-v-ca14949c><!--[--><div class="size-6 i-ri-heart-line"></div><!--]--></a><a href="/games" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="游戏间" data-v-ca14949c><!--[--><div class="size-6 i-ri-gamepad-line"></div><!--]--></a><a href="/private" class="va-link size-12 inline-flex-center cursor-pointer z-$yun-z-nav-menu text-$va-c-text" hover="bg-white/80 dark:bg-black/80 op-100" op-80 title="私密空间" data-v-ca14949c><!--[--><div class="size-6 i-ri-lock-line"></div><!--]--></a><!--]--></div></div><div class="flex flex-1 flex-center" data-v-ca14949c><div flex="~ center col h-full" class="nav-menu-title-container cursor-pointer" data-v-ca14949c><!----><span class="font-light truncate">启明星-长庚星</span></div></div><div class="inline-flex-center justify-end items-center flex-1" data-v-ca14949c><!-- <template v-if="!app.isMobile && themeConfig.nav">
+          <template v-for="item in themeConfig.nav" :key="item.text">
+            <AppLink
+              v-if="'link' in item"
+              :to="item.link"
+              class="menu-btn inline-flex-center p-2 transition text-$va-c-text"
+              inline-flex cursor="pointer"
+              hover="bg-white/80 dark:bg-black/80"
+              z="$yun-z-menu-btn"
+            >
+              {{ item.text }}
+            </AppLink>
+            <template v-else-if="'items' in item" />
+          </template>
+        </template> --><button class="yun-icon-btn rounded-none! hidden sm:inline-flex" title="切换语言" style="color:var(--va-c-text);" data-v-ca14949c><div i-ri-translate class="transition transform"></div></button><button type="button" class="yun-icon-btn yun-toggle-dark rounded-none!" title="切换深色模式" aria-label="切换深色模式" data-v-ca14949c><div i="ri-sun-line dark:ri-moon-line"></div></button><!--[--><button class="yun-search-btn yun-icon-btn yun-search-action popup-trigger" title="搜索"><div i-ri-search-line aria-hidden="true"></div></button><!--[--><!--v-if--><!--]--><!--]--></div></div><!----><!--v-if--><!----><!--[--><div class="yun-bg"></div><!--]--><!----><button type="button" class="back-to-top yun-icon-btn" aria-label="回到顶部" title="回到顶部" tabindex="-1" aria-hidden="true" style="--yun-back-top-progress:0deg;"><div class="back-to-top-arrow" i-ri-arrow-up-s-line aria-hidden="true"></div></button><!--]--><!--[--><!--]--><!--[--><!-- try it --><div></div><!-- 全站右下角：爱心支持（点击弹出收款码） --><div class="sponsor-fab"><button class="sponsor-fab-btn yun-icon-btn" title="支持为爱发电" aria-label="支持为爱发电" aria-haspopup="dialog" aria-expanded="false" text="red-400"><div i-ri-heart-fill></div></button><div class="sponsor-fab-pop" role="dialog" aria-hidden="true" aria-label="支持为爱发电"><div class="sponsor-fab-desc">扫码支持为爱发电，感谢每一份心意。</div><div class="sponsor-fab-qrs"><!--[--><a class="sponsor-fab-qr" href="/images/sponsor-wechatpay.png" target="_blank" rel="noopener" title="微信支付"><img border="~ rounded" p="1" loading="lazy" src="/images/sponsor-wechatpay.png" alt="微信支付"><span class="i-ri-wechat-pay-line sponsor-fab-qr-name" style="color:#07C160"></span></a><!--]--></div><!--[--><a class="sponsor-fab-link" href="https://ifdian.net/a/sunfleeting" target="_blank" rel="noopener" style="color:#946CE6"><span class="i-simple-icons-afdian sponsor-fab-link-icon"></span><span>在 爱发电 支持我 →</span></a><!--]--></div></div><!-- 右下角进度胶囊：文章页按正文算；相册详情页按整页算 --><!----><!-- 相册首页：鼠标划过冒相册封面（pointer-events:none，不挡点击） --><!--[--><!--
+    整层：固定盖住视口，只负责定位。
+    pointer-events: none 是硬要求 —— 否则这一层会把相册卡片的点击全吃掉。
+    没激活时 visibility: hidden，等于不存在。
+  --><div class="album-trail-layer" aria-hidden="true"></div><!--]--><!-- 文章左缘：阅读进度时间线（你 + 章节刻度，防重叠） --><!----><!-- 站内跳转的开场加载屏（六层墨滴 + 逐字浮出的文案） --><!--[--><!-- ⚠️ 淡出**不用** Vue 的 <Transition>：那会和底下手写的 `.is-out` 过渡叠成两段，
+       总时长翻倍。这里就一条路 —— 加 `.is-out` 让它透明，FADE_OUT_MS 后自己摘掉。 --><!----><!--]--><!-- 右下角浮动栈第 3 格：读字体切换（默认/宋体/楷体，localStorage 持久化） --><div class="font-fab"><button class="font-fab-btn" type="button" title="阅读字体" aria-label="阅读字体" aria-haspopup="true" aria-expanded="false"><span class="font-fab-aa" aria-hidden="true">Aa</span></button><div class="font-fab-pop" role="group" aria-label="阅读字体"><div class="font-fab-title">阅读字体</div><!--[--><button type="button" class="is-sans is-active font-fab-opt" aria-pressed="true"><span class="font-fab-opt-name">默认</span><span class="font-fab-opt-sample">启明星</span></button><button type="button" class="is-serif font-fab-opt" aria-pressed="false"><span class="font-fab-opt-name">宋体</span><span class="font-fab-opt-sample">启明星</span></button><button type="button" class="is-kai font-fab-opt" aria-pressed="false"><span class="font-fab-opt-name">楷体</span><span class="font-fab-opt-sample">启明星</span></button><!--]--></div></div><!--]--><!--]--><!----><!--]--></div><script>window.__INITIAL_STATE__='{"pinia":{"yun-app":{"bannerAnimationDone":false},"app":{"showLoading":true}}}'</script><script type="application/ld+json" data-hid="schema-org-graph">{"@context":"https://schema.org","@graph":[{"@id":"https://sunfleeting-debug.github.io/#identity","@type":"Person","name":"sunfleeting","url":"https://sunfleeting-debug.github.io/","image":{"@id":"https://sunfleeting-debug.github.io/#/schema/image/1"},"sameAs":["/atom.xml","https://github.com/sunfleeting-debug","mailto:sunfleeting@gmail.com","https://x.com/sunfleeting108","https://www.facebook.com/profile.php?id=61594692990741","https://wpa.qq.com/msgrd?v=3&uin=2119100068&site=qq&menu=yes","/images/wechat-qr.jpg","https://t.me/fleeting108","https://space.bilibili.com/1780632024","https://ifdian.net/a/sunfleeting"]},{"@id":"https://sunfleeting-debug.github.io/#website","@type":"WebSite","dateModified":"2026-10-09","datePublished":"2026-10-09","inLanguage":"zh-CN","name":"尺K空间","url":"https://sunfleeting-debug.github.io/","publisher":{"@id":"https://sunfleeting-debug.github.io/#identity"}},{"@id":"https://sunfleeting-debug.github.io/#webpage","@type":"WebPage","description":"转瞬即逝的，都记在这里","name":"尺K空间","url":"https://sunfleeting-debug.github.io/","about":{"@id":"https://sunfleeting-debug.github.io/#identity"},"isPartOf":{"@id":"https://sunfleeting-debug.github.io/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://sunfleeting-debug.github.io/"]}]},{"@id":"https://sunfleeting-debug.github.io/#/schema/image/1","@type":"ImageObject","contentUrl":"https://sunfleeting-debug.github.io/images/avatar.jpg","inLanguage":"zh-CN","url":"https://sunfleeting-debug.github.io/images/avatar.jpg"}]}</script>
+  <div id="valaxy-teleports"></div>
+
+  
+
+</body>
+</html>
