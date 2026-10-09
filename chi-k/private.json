@@ -5,7 +5,7 @@
     "name": "PBKDF2",
     "hash": "SHA-256",
     "iterations": 310000,
-    "salt": "6kOmEnA1Ozo55kt7dJ9Apg=="
+    "salt": "FNaS9OnPQij/OofHZNyd1Q=="
   },
   "catalog": "catalog.enc"
 }
