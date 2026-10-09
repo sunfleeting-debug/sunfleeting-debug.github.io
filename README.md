@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/%E9%83%A8%E7%BD%B2-GitHub%20Pages-181717" alt="GitHub Pages">
   </p>
   <p>
-    <a href="README.md">简体中文</a> ·
+    <b>简体中文</b> ·
     <a href="README.en.md">English</a>
   </p>
 </div>

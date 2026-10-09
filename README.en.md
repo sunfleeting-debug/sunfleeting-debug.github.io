@@ -11,7 +11,7 @@
   </p>
   <p>
     <a href="README.md">简体中文</a> ·
-    <a href="README.en.md">English</a>
+    <b>English</b>
   </p>
 </div>
 
