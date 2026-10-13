@@ -4,7 +4,7 @@
         <title>启明星-长庚星</title>
         <link>https://sunfleeting-debug.github.io/</link>
         <description>转瞬即逝的，都记在这里</description>
-        <lastBuildDate>Fri, 09 Oct 2026 12:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 16:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,16 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © sunfleeting</copyright>
         <atom:link href="https://sunfleeting-debug.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[心随想 · 步履所往，皆是远方]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/xin-sui-xiang-bu-lu-suo-wang.jpg" alt="题图"></p>
+<p>十月的风已经有了凉意，一夜之间，梧桐叶落满了教学楼的台阶。新学期开始有一段日子了，日子像被</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang" target="_blank">https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com (sunfleeting)</author>
+        </item>
         <item>
             <title><![CDATA[此刻星火，来日长明]]></title>
             <link>https://sunfleeting-debug.github.io/posts/ci-ke-xing-huo-lai-ri-chang-ming</link>

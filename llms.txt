@@ -4,6 +4,7 @@
 
 ## Posts
 
+- [心随想 · 步履所往，皆是远方](https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang.md)
 - [此刻星火，来日长明](https://sunfleeting-debug.github.io/posts/ci-ke-xing-huo-lai-ri-chang-ming.md)
 - [落叶为笺，秋以为期](https://sunfleeting-debug.github.io/posts/luo-ye-wei-jian-qiu-yi-wei-qi.md)
 - [行囊深处，故乡未远](https://sunfleeting-debug.github.io/posts/xing-nang-shen-chu-gu-xiang-wei-yuan.md)
