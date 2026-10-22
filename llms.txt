@@ -4,6 +4,12 @@
 
 ## Posts
 
+- [新闻烟火｜一家印度 CA 把私钥设成了 4：八张证书的钥匙一秒就能猜出来——浏览器两小时补上了，你机房里的机器不会](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca.md)
+- [新闻烟火｜吴越被AI换脸带货：标签靠骗子自选、封号靠本人熬夜、赔偿靠你去告](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face.md)
+- [新闻烟火｜OpenAI 说要自己造人形机器人、2027 年给样机——它想卖的不是身体，是那颗脑子](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot.md)
+- [耳畔烟火｜《把回忆拼好给你》：他说，拼好两次，我就回来了](https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu.md)
+- [新闻烟火｜11 项跑分全涨、单任务成本砍到四成——DeepSeek 这次更新，改的是价目表](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017.md)
+- [新闻烟火｜0.9 秒破百、倒挂上墙——Roadster 飞起来了，路还没修好](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster.md)
 - [心随想 · 步履所往，皆是远方](https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang.md)
 - [此刻星火，来日长明](https://sunfleeting-debug.github.io/posts/ci-ke-xing-huo-lai-ri-chang-ming.md)
 - [落叶为笺，秋以为期](https://sunfleeting-debug.github.io/posts/luo-ye-wei-jian-qiu-yi-wei-qi.md)

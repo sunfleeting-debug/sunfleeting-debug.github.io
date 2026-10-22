@@ -1,15 +1,87 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "启明星-长庚星",
+    "title": "$locale:siteConfig.title",
     "home_page_url": "https://sunfleeting-debug.github.io/",
     "feed_url": "https://sunfleeting-debug.github.io/feed.json",
-    "description": "转瞬即逝的，都记在这里",
+    "description": "$locale:siteConfig.description",
     "icon": "https://sunfleeting-debug.github.io/images/avatar.jpg",
     "author": {
-        "name": "sunfleeting",
+        "name": "$locale:siteConfig.author.name",
         "url": "https://github.com/sunfleeting-debug"
     },
     "items": [
+        {
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca",
+            "content_html": "<p>2026 年 10 月 17 日，星期六，18:05 UTC。一个只署名&quot;Wayne&quot;的人联系了 Chrome 的根证书项目组。</p>\n<p>他没有写漏洞报告。</p>\n<p>他用八把私钥，分别对同一句话签了名：「We</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca",
+            "title": "新闻烟火｜一家印度 CA 把私钥设成了 4：八张证书的钥匙一秒就能猜出来——浏览器两小时补上了，你机房里的机器不会",
+            "date_modified": "2026-10-22T00:00:00.000Z",
+            "date_published": "2026-10-22T00:00:00.000Z",
+            "author": {
+                "name": "$locale:siteConfig.author.name",
+                "url": "https://github.com/sunfleeting-debug"
+            }
+        },
+        {
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face",
+            "content_html": "<p>2026 年 10 月 18 日凌晨 3 点 18 分，演员吴越发了一条微博。</p>\n<p>原话是：“一觉醒来，谁在利用Ai肆意抓人替自己作恶？这位‘花姐’你骗了多少人的钱？请如数奉还！太恶劣！！！”</p>\n<p>她点</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face",
+            "title": "新闻烟火｜吴越被AI换脸带货：标签靠骗子自选、封号靠本人熬夜、赔偿靠你去告",
+            "date_modified": "2026-10-21T00:00:00.000Z",
+            "date_published": "2026-10-21T00:00:00.000Z",
+            "author": {
+                "name": "$locale:siteConfig.author.name",
+                "url": "https://github.com/sunfleeting-debug"
+            }
+        },
+        {
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot",
+            "content_html": "<p>2026 年 10 月 18 日，OpenAI 的 CEO 山姆·奥特曼上了一档叫《Sources》的播客。主持人问他：OpenAI 会不会自己造人形机器人。</p>\n<p>他答了三个字：我们会。</p>\n<p>时间表也给</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot",
+            "title": "新闻烟火｜OpenAI 说要自己造人形机器人、2027 年给样机——它想卖的不是身体，是那颗脑子",
+            "date_modified": "2026-10-20T00:00:00.000Z",
+            "date_published": "2026-10-20T00:00:00.000Z",
+            "author": {
+                "name": "$locale:siteConfig.author.name",
+                "url": "https://github.com/sunfleeting-debug"
+            }
+        },
+        {
+            "id": "https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu",
+            "content_html": "<p>深夜，一个人的房间。</p>\n<p>台灯照着桌面，桌上摊着一副拼图，已经拼好了大半，只剩右下角一个空缺。</p>\n<p>男生坐在那里，手指捏着最后一块，悬在缺口上方，很久没有放下去。</p>\n<p>这是我给《把回忆拼好给你》想的一个画</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu",
+            "title": "耳畔烟火｜《把回忆拼好给你》：他说，拼好两次，我就回来了",
+            "date_modified": "2026-10-19T00:00:00.000Z",
+            "date_published": "2026-10-19T00:00:00.000Z",
+            "author": {
+                "name": "$locale:siteConfig.author.name",
+                "url": "https://github.com/sunfleeting-debug"
+            }
+        },
+        {
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017",
+            "content_html": "<p>2026 年 10 月 17 日下午 16:11，DeepSeek 的公众号发出一篇不到一千字的公告：V4.1 Flash 更新至 V4.1-Flash-1017。</p>\n<p>没有发布会，没有预热，连个像样</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017",
+            "title": "新闻烟火｜11 项跑分全涨、单任务成本砍到四成——DeepSeek 这次更新，改的是价目表",
+            "date_modified": "2026-10-19T00:00:00.000Z",
+            "date_published": "2026-10-19T00:00:00.000Z",
+            "author": {
+                "name": "$locale:siteConfig.author.name",
+                "url": "https://github.com/sunfleeting-debug"
+            }
+        },
+        {
+            "id": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster",
+            "content_html": "<figure class=\"post-fig\"><img src=\"https://sunfleeting-debug.github.io/images/posts/xin-wen-yan-huo-roadster/roadster-red-front.jpg\" a<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster</a> 阅读全文。</p>",
+            "url": "https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster",
+            "title": "新闻烟火｜0.9 秒破百、倒挂上墙——Roadster 飞起来了，路还没修好",
+            "date_modified": "2026-10-18T00:00:00.000Z",
+            "date_published": "2026-10-18T00:00:00.000Z",
+            "author": {
+                "name": "$locale:siteConfig.author.name",
+                "url": "https://github.com/sunfleeting-debug"
+            }
+        },
         {
             "id": "https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang",
             "content_html": "<p><img src=\"https://sunfleeting-debug.github.io/images/posts/xin-sui-xiang-bu-lu-suo-wang.jpg\" alt=\"题图\"></p>\n<p>十月的风已经有了凉意，一夜之间，梧桐叶落满了教学楼的台阶。新学期开始有一段日子了，日子像被</p>\n<br/><p>访问 <a href=\"https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang\" target=\"_blank\">https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang</a> 阅读全文。</p>",
@@ -18,7 +90,7 @@
             "date_modified": "2026-10-09T00:00:00.000Z",
             "date_published": "2026-10-09T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -30,7 +102,7 @@
             "date_modified": "2026-09-25T00:00:00.000Z",
             "date_published": "2026-09-25T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -42,7 +114,7 @@
             "date_modified": "2026-09-25T00:00:00.000Z",
             "date_published": "2026-09-25T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -54,7 +126,7 @@
             "date_modified": "2026-09-25T00:00:00.000Z",
             "date_published": "2026-09-25T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -66,7 +138,7 @@
             "date_modified": "2026-09-07T00:00:00.000Z",
             "date_published": "2026-09-07T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -78,7 +150,7 @@
             "date_modified": "2026-07-18T00:00:00.000Z",
             "date_published": "2026-07-18T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -90,7 +162,7 @@
             "date_modified": "2026-07-17T00:00:00.000Z",
             "date_published": "2026-07-17T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -102,7 +174,7 @@
             "date_modified": "2026-07-15T00:00:00.000Z",
             "date_published": "2026-07-15T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -114,7 +186,7 @@
             "date_modified": "2026-07-13T00:00:00.000Z",
             "date_published": "2026-07-13T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -126,7 +198,7 @@
             "date_modified": "2026-07-12T00:00:00.000Z",
             "date_published": "2026-07-12T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -138,7 +210,7 @@
             "date_modified": "2026-07-11T00:00:00.000Z",
             "date_published": "2026-07-11T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -150,7 +222,7 @@
             "date_modified": "2026-04-05T00:00:00.000Z",
             "date_published": "2026-04-05T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -162,7 +234,7 @@
             "date_modified": "2026-03-22T00:00:00.000Z",
             "date_published": "2026-03-22T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -174,7 +246,7 @@
             "date_modified": "2026-03-07T00:00:00.000Z",
             "date_published": "2026-03-07T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -186,7 +258,7 @@
             "date_modified": "2026-03-07T00:00:00.000Z",
             "date_published": "2026-03-07T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -198,7 +270,7 @@
             "date_modified": "2025-12-02T00:00:00.000Z",
             "date_published": "2025-12-02T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -210,7 +282,7 @@
             "date_modified": "2025-12-02T00:00:00.000Z",
             "date_published": "2025-12-02T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -222,7 +294,7 @@
             "date_modified": "2025-11-17T00:00:00.000Z",
             "date_published": "2025-11-17T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -234,7 +306,7 @@
             "date_modified": "2025-10-08T00:00:00.000Z",
             "date_published": "2025-10-08T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -246,7 +318,7 @@
             "date_modified": "2025-03-04T00:00:00.000Z",
             "date_published": "2025-03-04T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -258,7 +330,7 @@
             "date_modified": "2025-02-24T00:00:00.000Z",
             "date_published": "2025-02-24T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -270,7 +342,7 @@
             "date_modified": "2025-02-24T00:00:00.000Z",
             "date_published": "2025-02-24T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -282,7 +354,7 @@
             "date_modified": "2024-12-25T00:00:00.000Z",
             "date_published": "2024-12-25T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -294,7 +366,7 @@
             "date_modified": "2024-10-04T00:00:00.000Z",
             "date_published": "2024-10-04T00:00:00.000Z",
             "author": {
-                "name": "sunfleeting",
+                "name": "$locale:siteConfig.author.name",
                 "url": "https://github.com/sunfleeting-debug"
             }
         }

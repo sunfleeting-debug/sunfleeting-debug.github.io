@@ -1,19 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>启明星-长庚星</title>
+        <title>$locale:siteConfig.title</title>
         <link>https://sunfleeting-debug.github.io/</link>
-        <description>转瞬即逝的，都记在这里</description>
-        <lastBuildDate>Wed, 14 Oct 2026 04:25:12 GMT</lastBuildDate>
+        <description>$locale:siteConfig.description</description>
+        <lastBuildDate>Thu, 22 Oct 2026 08:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>启明星-长庚星</title>
+            <title>$locale:siteConfig.title</title>
             <url>https://sunfleeting-debug.github.io/images/avatar.jpg</url>
             <link>https://sunfleeting-debug.github.io/</link>
         </image>
-        <copyright>CC BY-NC-SA 4.0 2026 © sunfleeting</copyright>
+        <copyright>CC BY-NC-SA 4.0 2026 © $locale:siteConfig.author.name</copyright>
         <atom:link href="https://sunfleeting-debug.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[新闻烟火｜一家印度 CA 把私钥设成了 4：八张证书的钥匙一秒就能猜出来——浏览器两小时补上了，你机房里的机器不会]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2026 年 10 月 17 日，星期六，18:05 UTC。一个只署名&quot;Wayne&quot;的人联系了 Chrome 的根证书项目组。</p>
+<p>他没有写漏洞报告。</p>
+<p>他用八把私钥，分别对同一句话签了名：「We</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-emudhra-ca</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
+        </item>
+        <item>
+            <title><![CDATA[新闻烟火｜吴越被AI换脸带货：标签靠骗子自选、封号靠本人熬夜、赔偿靠你去告]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2026 年 10 月 18 日凌晨 3 点 18 分，演员吴越发了一条微博。</p>
+<p>原话是：“一觉醒来，谁在利用Ai肆意抓人替自己作恶？这位‘花姐’你骗了多少人的钱？请如数奉还！太恶劣！！！”</p>
+<p>她点</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-face</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
+        </item>
+        <item>
+            <title><![CDATA[新闻烟火｜OpenAI 说要自己造人形机器人、2027 年给样机——它想卖的不是身体，是那颗脑子]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2026 年 10 月 18 日，OpenAI 的 CEO 山姆·奥特曼上了一档叫《Sources》的播客。主持人问他：OpenAI 会不会自己造人形机器人。</p>
+<p>他答了三个字：我们会。</p>
+<p>时间表也给</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-openai-robot</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
+        </item>
+        <item>
+            <title><![CDATA[耳畔烟火｜《把回忆拼好给你》：他说，拼好两次，我就回来了]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>深夜，一个人的房间。</p>
+<p>台灯照着桌面，桌上摊着一副拼图，已经拼好了大半，只剩右下角一个空缺。</p>
+<p>男生坐在那里，手指捏着最后一块，悬在缺口上方，很久没有放下去。</p>
+<p>这是我给《把回忆拼好给你》想的一个画</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu" target="_blank">https://sunfleeting-debug.github.io/posts/er-pan-yan-huo-hui-yi-pin-tu</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
+        </item>
+        <item>
+            <title><![CDATA[新闻烟火｜11 项跑分全涨、单任务成本砍到四成——DeepSeek 这次更新，改的是价目表]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2026 年 10 月 17 日下午 16:11，DeepSeek 的公众号发出一篇不到一千字的公告：V4.1 Flash 更新至 V4.1-Flash-1017。</p>
+<p>没有发布会，没有预热，连个像样</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-deepseek-1017</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
+        </item>
+        <item>
+            <title><![CDATA[新闻烟火｜0.9 秒破百、倒挂上墙——Roadster 飞起来了，路还没修好]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster</guid>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<figure class="post-fig"><img src="https://sunfleeting-debug.github.io/images/posts/xin-wen-yan-huo-roadster/roadster-red-front.jpg" a<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-roadster</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
+        </item>
         <item>
             <title><![CDATA[心随想 · 步履所往，皆是远方]]></title>
             <link>https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang</link>
@@ -22,7 +85,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/xin-sui-xiang-bu-lu-suo-wang.jpg" alt="题图"></p>
 <p>十月的风已经有了凉意，一夜之间，梧桐叶落满了教学楼的台阶。新学期开始有一段日子了，日子像被</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang" target="_blank">https://sunfleeting-debug.github.io/posts/xin-sui-xiang-bu-lu-suo-wang</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[此刻星火，来日长明]]></title>
@@ -32,7 +95,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/ci-ke-xing-huo-lai-ri-chang-ming.jpg" alt="题图"></p>
 <p>未来的你，展信安。写下这封信时，是二〇二六年的秋天，大三的第一个学期，夜里十一</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/ci-ke-xing-huo-lai-ri-chang-ming" target="_blank">https://sunfleeting-debug.github.io/posts/ci-ke-xing-huo-lai-ri-chang-ming</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[落叶为笺，秋以为期]]></title>
@@ -42,7 +105,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/luo-ye-wei-jian-qiu-yi-wei-qi.jpg" alt="题图"></p>
 <p>秋天，我不知道该把这封信寄往哪里。你没有门牌号，没有归期，只在每年某个不经意的清晨，</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/luo-ye-wei-jian-qiu-yi-wei-qi" target="_blank">https://sunfleeting-debug.github.io/posts/luo-ye-wei-jian-qiu-yi-wei-qi</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[行囊深处，故乡未远]]></title>
@@ -52,7 +115,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/xing-nang-shen-chu-gu-xiang-wei-yuan.jpg" alt="题图"></p>
 <p>两年前的九月，我拖着行李箱走出长沙站，第一次觉得“远方”是一个有重量的</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xing-nang-shen-chu-gu-xiang-wei-yuan" target="_blank">https://sunfleeting-debug.github.io/posts/xing-nang-shen-chu-gu-xiang-wei-yuan</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[新闻烟火｜AI换脸、AI复活、AI偷声——最高法终于把“AI生成”这块免死金牌砸了]]></title>
@@ -60,7 +123,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian</guid>
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 1.6;letter-spacing<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian" target="_blank">https://sunfleeting-debug.github.io/posts/ai-huan-lian-zui-gao-fa-yi-jian</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[新闻烟火｜Kimi K3：登顶与拷问之间，站着315亿美元的估值]]></title>
@@ -68,7 +131,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3</guid>
             <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 1.6;letter-spacing<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-kimi-k3</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[代码烟火｜GitHub 热榜 · 本周值得关注的开源项目]]></title>
@@ -76,7 +139,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17</guid>
             <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 1.6;letter-spacing<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17" target="_blank">https://sunfleeting-debug.github.io/posts/dai-ma-yan-huo-github-re-bang-2026-07-17</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[新闻烟火｜AI摄影获奖：艺术已死，评委已瞎]]></title>
@@ -84,7 +147,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang</guid>
             <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 1.8;letter-spacing<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang" target="_blank">https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-ai-she-ying-huo-jiang</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[柱状图中最大的矩形（LeetCode 84）]]></title>
@@ -92,7 +155,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing</guid>
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 1.8;letter-spacing<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing" target="_blank">https://sunfleeting-debug.github.io/posts/ma-jian-yan-huo-zhu-zhuang-tu-zui-da-ju-xing</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[银幕烟火｜《阿甘正传》]]></title>
@@ -100,7 +163,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan</guid>
             <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 2;letter-spacing: <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan" target="_blank">https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-a-gan-zheng-zhuan</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[银幕烟火｜《肖申克的救赎》]]></title>
@@ -108,7 +171,7 @@
             <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu</guid>
             <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="wechat-article"><section data-pm-slice="0 0 []" style="line-height: 1.6;letter-spacing<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu" target="_blank">https://sunfleeting-debug.github.io/posts/yin-mu-yan-huo-xiao-shen-ke-de-jiu-shu</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[绿灯烬处，梦落无声]]></title>
@@ -118,7 +181,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/lv-deng-jin-chu-meng-luo-wu-sheng.jpg" alt="题图"></p>
 <p>书卷藏日月，步履阅山河。有些文字从不必喧嚣张扬，只消轻轻摊开，便有鎏金岁</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/lv-deng-jin-chu-meng-luo-wu-sheng" target="_blank">https://sunfleeting-debug.github.io/posts/lv-deng-jin-chu-meng-luo-wu-sheng</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[绿灯未熄，孤影长留]]></title>
@@ -129,7 +192,7 @@
 <p><em>——致被误读的《了不起的盖茨比》</em></p>
 <p>合上书页的深夜，窗外的晚风都带</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/lv-deng-wei-xi-gu-ying-chang-liu" target="_blank">https://sunfleeting-debug.github.io/posts/lv-deng-wei-xi-gu-ying-chang-liu</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[春风里的“锋”景线]]></title>
@@ -139,7 +202,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/chun-feng-li-de-feng-jing-xian.jpg" alt="题图"></p>
 <p>春风送暖，催开陌上繁花，也勾勒出校园里最动人的“锋”景线。这抹风景，无关惊天壮</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/chun-feng-li-de-feng-jing-xian" target="_blank">https://sunfleeting-debug.github.io/posts/chun-feng-li-de-feng-jing-xian</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[风载清欢，寄我心期]]></title>
@@ -149,7 +212,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/feng-zai-qing-huan-ji-wo-xin-qi.jpg" alt="题图"></p>
 <p>风是春天的邮差，它不说话，却能把心底最软的那部分，轻轻递到想去的地方。我总在</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/feng-zai-qing-huan-ji-wo-xin-qi" target="_blank">https://sunfleeting-debug.github.io/posts/feng-zai-qing-huan-ji-wo-xin-qi</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[藏在衣柜里的泡面]]></title>
@@ -159,7 +222,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/cang-zai-yi-gui-li-de-pao-mian.jpg" alt="题图"></p>
 <p>至今想起初中那段日子，鼻尖仿佛还飘着泡面的香气——那是青春期特有的味道，混着欲</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/cang-zai-yi-gui-li-de-pao-mian" target="_blank">https://sunfleeting-debug.github.io/posts/cang-zai-yi-gui-li-de-pao-mian</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[山河藏心曲]]></title>
@@ -169,7 +232,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/shan-he-cang-xin-qu.jpg" alt="题图"></p>
 <p>高中三年的课表上，地理课总带着些特殊的分量——不是因为考点繁杂，而是因为那位执掌讲台的徐孟良老师。在</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/shan-he-cang-xin-qu" target="_blank">https://sunfleeting-debug.github.io/posts/shan-he-cang-xin-qu</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[代码行间有暖意，寝室四友共青春]]></title>
@@ -179,7 +242,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/dai-ma-xing-jian-you-nuan-yi.jpg" alt="题图"></p>
 <p>中南大学14舍的212寝室，是我和三位舍友的“代码基地”。大一这年，课程里的算法、</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/dai-ma-xing-jian-you-nuan-yi" target="_blank">https://sunfleeting-debug.github.io/posts/dai-ma-xing-jian-you-nuan-yi</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[我与我周旋久，宁作我]]></title>
@@ -191,7 +254,7 @@
 <p><strong>主题</strong>：在信息时代，我们或许都会被标签，被定义，被分类，太多</p>
 </blockquote>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo" target="_blank">https://sunfleeting-debug.github.io/posts/wo-yu-wo-zhou-xuan-jiu-ning-zuo-wo</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[春日里，我们各自的诗行]]></title>
@@ -201,7 +264,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing.jpg" alt="题图"></p>
 <p>高三那年的春天，宛如一幅被大自然精心雕琢的绝美画卷，在校园里徐徐展开</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing" target="_blank">https://sunfleeting-debug.github.io/posts/chun-ri-li-wo-men-ge-zi-de-shi-xing</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[读《四步创业法》：大学生创新创业的探索与思索]]></title>
@@ -211,7 +274,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/du-si-bu-chuang-ye-fa.jpg" alt="题图"></p>
 <p>身为一名怀揣创业梦想的中南学子，在这个充满机遇与挑战的时代，我时常思索着如何踏出创新创业的第一步</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/du-si-bu-chuang-ye-fa" target="_blank">https://sunfleeting-debug.github.io/posts/du-si-bu-chuang-ye-fa</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[《夺金 2025》观后感：品中南榜样之姿，悟创业济世之怀]]></title>
@@ -221,7 +284,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/duo-jin-2025-guan-hou-gan.jpg" alt="题图"></p>
 <p>作为一名中南大学的学生，当我看到《夺金 2025》这个节目时，内心就充满了期待。而当节目</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/duo-jin-2025-guan-hou-gan" target="_blank">https://sunfleeting-debug.github.io/posts/duo-jin-2025-guan-hou-gan</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[定积分在最优红利策略中的应用与分析]]></title>
@@ -232,7 +295,7 @@
 <h2>摘要</h2>
 <p>本文深入探讨了定积分在最优红利策略制定中的重要作用。</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/ding-ji-fen-zui-you-hong-li-ce-lue" target="_blank">https://sunfleeting-debug.github.io/posts/ding-ji-fen-zui-you-hong-li-ce-lue</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
         <item>
             <title><![CDATA[徘徊在夜的尽头]]></title>
@@ -242,7 +305,7 @@
             <content:encoded><![CDATA[<p><img src="https://sunfleeting-debug.github.io/images/posts/pai-huai-zai-ye-de-jin-tou.jpg" alt="题图"></p>
 <p><strong>主题</strong>：人生路漫漫，却迷雾重重，何处是归途？你曾徘徊在夜的尽头，寻觅那丢失的方向</p>
 <br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/pai-huai-zai-ye-de-jin-tou" target="_blank">https://sunfleeting-debug.github.io/posts/pai-huai-zai-ye-de-jin-tou</a> 阅读全文。</p>]]></content:encoded>
-            <author>sunfleeting@gmail.com (sunfleeting)</author>
+            <author>sunfleeting@gmail.com ($locale:siteConfig.author.name)</author>
         </item>
     </channel>
 </rss>
