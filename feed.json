@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "$locale:siteConfig.title",
+    "title": "启明星-长庚星",
     "home_page_url": "https://sunfleeting-debug.github.io/",
     "feed_url": "https://sunfleeting-debug.github.io/feed.json",
-    "description": "$locale:siteConfig.description",
+    "description": "转瞬即逝的，都记在这里",
     "icon": "https://sunfleeting-debug.github.io/images/avatar.jpg",
     "author": {
-        "name": "$locale:siteConfig.author.name",
+        "name": "sunfleeting",
         "url": "https://github.com/sunfleeting-debug"
     },
     "items": [
@@ -18,7 +18,7 @@
             "date_modified": "2026-10-22T00:00:00.000Z",
             "date_published": "2026-10-22T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -30,7 +30,7 @@
             "date_modified": "2026-10-21T00:00:00.000Z",
             "date_published": "2026-10-21T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -42,7 +42,7 @@
             "date_modified": "2026-10-20T00:00:00.000Z",
             "date_published": "2026-10-20T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -54,7 +54,7 @@
             "date_modified": "2026-10-19T00:00:00.000Z",
             "date_published": "2026-10-19T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -66,7 +66,7 @@
             "date_modified": "2026-10-19T00:00:00.000Z",
             "date_published": "2026-10-19T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -78,7 +78,7 @@
             "date_modified": "2026-10-18T00:00:00.000Z",
             "date_published": "2026-10-18T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -90,7 +90,7 @@
             "date_modified": "2026-10-09T00:00:00.000Z",
             "date_published": "2026-10-09T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -102,7 +102,7 @@
             "date_modified": "2026-09-25T00:00:00.000Z",
             "date_published": "2026-09-25T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -114,7 +114,7 @@
             "date_modified": "2026-09-25T00:00:00.000Z",
             "date_published": "2026-09-25T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -126,7 +126,7 @@
             "date_modified": "2026-09-25T00:00:00.000Z",
             "date_published": "2026-09-25T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -138,7 +138,7 @@
             "date_modified": "2026-09-07T00:00:00.000Z",
             "date_published": "2026-09-07T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -150,7 +150,7 @@
             "date_modified": "2026-07-18T00:00:00.000Z",
             "date_published": "2026-07-18T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -162,7 +162,7 @@
             "date_modified": "2026-07-17T00:00:00.000Z",
             "date_published": "2026-07-17T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -174,7 +174,7 @@
             "date_modified": "2026-07-15T00:00:00.000Z",
             "date_published": "2026-07-15T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -186,7 +186,7 @@
             "date_modified": "2026-07-13T00:00:00.000Z",
             "date_published": "2026-07-13T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -198,7 +198,7 @@
             "date_modified": "2026-07-12T00:00:00.000Z",
             "date_published": "2026-07-12T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -210,7 +210,7 @@
             "date_modified": "2026-07-11T00:00:00.000Z",
             "date_published": "2026-07-11T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -222,7 +222,7 @@
             "date_modified": "2026-04-05T00:00:00.000Z",
             "date_published": "2026-04-05T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -234,7 +234,7 @@
             "date_modified": "2026-03-22T00:00:00.000Z",
             "date_published": "2026-03-22T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -246,7 +246,7 @@
             "date_modified": "2026-03-07T00:00:00.000Z",
             "date_published": "2026-03-07T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -258,7 +258,7 @@
             "date_modified": "2026-03-07T00:00:00.000Z",
             "date_published": "2026-03-07T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -270,7 +270,7 @@
             "date_modified": "2025-12-02T00:00:00.000Z",
             "date_published": "2025-12-02T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -282,7 +282,7 @@
             "date_modified": "2025-12-02T00:00:00.000Z",
             "date_published": "2025-12-02T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -294,7 +294,7 @@
             "date_modified": "2025-11-17T00:00:00.000Z",
             "date_published": "2025-11-17T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -306,7 +306,7 @@
             "date_modified": "2025-10-08T00:00:00.000Z",
             "date_published": "2025-10-08T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -318,7 +318,7 @@
             "date_modified": "2025-03-04T00:00:00.000Z",
             "date_published": "2025-03-04T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -330,7 +330,7 @@
             "date_modified": "2025-02-24T00:00:00.000Z",
             "date_published": "2025-02-24T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -342,7 +342,7 @@
             "date_modified": "2025-02-24T00:00:00.000Z",
             "date_published": "2025-02-24T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -354,7 +354,7 @@
             "date_modified": "2024-12-25T00:00:00.000Z",
             "date_published": "2024-12-25T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         },
@@ -366,7 +366,7 @@
             "date_modified": "2024-10-04T00:00:00.000Z",
             "date_published": "2024-10-04T00:00:00.000Z",
             "author": {
-                "name": "$locale:siteConfig.author.name",
+                "name": "sunfleeting",
                 "url": "https://github.com/sunfleeting-debug"
             }
         }
