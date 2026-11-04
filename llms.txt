@@ -4,6 +4,9 @@
 
 ## Posts
 
+- [多出来的那半勺](https://sunfleeting-debug.github.io/posts/duo-chu-lai-de-na-ban-shao.md)
+- [麓山的秋只往低处长](https://sunfleeting-debug.github.io/posts/lu-shan-de-qiu-zhi-wang-di-chu-chang.md)
+- [上海的最后一页](https://sunfleeting-debug.github.io/posts/shang-hai-de-zui-hou-yi-ye.md)
 - [新闻烟火｜苹果把中国的 Siri 交给了阿里：16 项功能，3 处千问，0 项下一代 Siri](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-apple-qwen-1102.md)
 - [新闻烟火｜算力上天，两种算法：谷歌一颗星跑通一次推理，北京 40 余颗星入了池](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-space-1031.md)
 - [新闻烟火｜三朵云都在加速，只有一家踩了刹车——亚马逊一个季度烧掉 424 亿美元](https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-capex-1030.md)

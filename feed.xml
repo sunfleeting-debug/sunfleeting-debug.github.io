@@ -4,7 +4,7 @@
         <title>启明星-长庚星</title>
         <link>https://sunfleeting-debug.github.io/</link>
         <description>转瞬即逝的，都记在这里</description>
-        <lastBuildDate>Tue, 03 Nov 2026 06:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 13:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,36 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © sunfleeting</copyright>
         <atom:link href="https://sunfleeting-debug.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[多出来的那半勺]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/duo-chu-lai-de-na-ban-shao</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/duo-chu-lai-de-na-ban-shao</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>三食堂二楼，靠东边那个窗口，是爱心餐窗口。三元一份：一格饭，一格菜，饭管饱，汤管够。我大一整年几乎都在这儿吃。阿姨戴白帽子，蓝围裙，套袖撸到手肘，右手虎口上有一小块烫出来的白疤。</p>
+<p>二楼的地面</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/duo-chu-lai-de-na-ban-shao" target="_blank">https://sunfleeting-debug.github.io/posts/duo-chu-lai-de-na-ban-shao</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com (sunfleeting)</author>
+        </item>
+        <item>
+            <title><![CDATA[麓山的秋只往低处长]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/lu-shan-de-qiu-zhi-wang-di-chu-chang</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/lu-shan-de-qiu-zhi-wang-di-chu-chang</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>十一月的岳麓山，秋天是从脚边开始的。你站在山顶往下看，只看得见一片还在硬撑的绿；得低下头，才能看见它已经熟透了。</p>
+<p>山顶确实还绿。云从东边慢慢挪过去，树梢只黄了几片，像谁抬手随手点上去的，点得</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/lu-shan-de-qiu-zhi-wang-di-chu-chang" target="_blank">https://sunfleeting-debug.github.io/posts/lu-shan-de-qiu-zhi-wang-di-chu-chang</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com (sunfleeting)</author>
+        </item>
+        <item>
+            <title><![CDATA[上海的最后一页]]></title>
+            <link>https://sunfleeting-debug.github.io/posts/shang-hai-de-zui-hou-yi-ye</link>
+            <guid isPermaLink="false">https://sunfleeting-debug.github.io/posts/shang-hai-de-zui-hou-yi-ye</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>今年开学，我把上一本本子的最后一页撕了下来，贴在新本子的第一页。那页上只有两个字：上海。</p>
+<p>本子是高一开学买的，硬壳，边角已经磨白。我有个习惯：第一页写名字和班级，最后一页留空。空着不是忘了，</p>
+<br/><p>访问 <a href="https://sunfleeting-debug.github.io/posts/shang-hai-de-zui-hou-yi-ye" target="_blank">https://sunfleeting-debug.github.io/posts/shang-hai-de-zui-hou-yi-ye</a> 阅读全文。</p>]]></content:encoded>
+            <author>sunfleeting@gmail.com (sunfleeting)</author>
+        </item>
         <item>
             <title><![CDATA[新闻烟火｜苹果把中国的 Siri 交给了阿里：16 项功能，3 处千问，0 项下一代 Siri]]></title>
             <link>https://sunfleeting-debug.github.io/posts/xin-wen-yan-huo-apple-qwen-1102</link>
