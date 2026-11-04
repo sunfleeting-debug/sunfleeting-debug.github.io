@@ -4,6 +4,7 @@ date: '2026-10-28'
 cover: /images/covers/xin-wen-yan-huo-phone-price-1028.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - DRAM
   - 手机涨价
   - 内存

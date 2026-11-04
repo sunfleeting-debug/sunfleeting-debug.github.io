@@ -4,6 +4,7 @@ date: '2026-10-24'
 cover: /images/covers/xin-wen-yan-huo-deepseek-1022.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - DeepSeek
   - 融资
   - 芯片

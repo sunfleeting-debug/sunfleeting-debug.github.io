@@ -4,6 +4,7 @@ date: '2026-10-19'
 cover: /images/covers/xin-wen-yan-huo-deepseek-1017.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - DeepSeek
   - 大模型
   - API 定价

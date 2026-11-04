@@ -4,6 +4,7 @@ date: '2026-10-21'
 cover: /images/covers/xin-wen-yan-huo-ai-face.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - AI 换脸
   - 电商带货
   - 平台治理

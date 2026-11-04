@@ -4,6 +4,7 @@ date: '2026-10-31'
 cover: /images/covers/xin-wen-yan-huo-space-1031.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - 太空算力
   - 卫星
   - 推理

@@ -4,6 +4,7 @@ date: '2026-10-25'
 cover: /images/covers/xin-wen-yan-huo-sxd-1025.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - AI 电影
   - 院线
   - 票房

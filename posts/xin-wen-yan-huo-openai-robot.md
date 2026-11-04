@@ -4,6 +4,7 @@ date: '2026-10-20'
 cover: /images/covers/xin-wen-yan-huo-openai-robot.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - OpenAI
   - 人形机器人
   - 具身智能

@@ -4,6 +4,7 @@ date: '2026-10-29'
 cover: /images/covers/xin-wen-yan-huo-arena-1029.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - LMArena
   - 模型榜单
   - 评测

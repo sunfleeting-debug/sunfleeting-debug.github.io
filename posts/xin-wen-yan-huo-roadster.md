@@ -4,6 +4,7 @@ date: '2026-10-18'
 cover: /images/covers/xin-wen-yan-huo-roadster.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - 特斯拉
   - Roadster
   - 新能源汽车

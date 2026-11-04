@@ -4,6 +4,7 @@ date: '2026-10-24'
 cover: /images/covers/xin-wen-yan-huo-kimi-k31-1024.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - Kimi K3.1
   - 开源模型
   - 基准测试

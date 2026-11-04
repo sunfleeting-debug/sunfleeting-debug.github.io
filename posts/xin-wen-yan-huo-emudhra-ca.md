@@ -4,6 +4,7 @@ date: '2026-10-22'
 cover: /images/covers/xin-wen-yan-huo-emudhra-ca.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - 网络安全
   - 数字证书
   - CA

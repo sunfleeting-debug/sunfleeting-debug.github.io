@@ -4,6 +4,7 @@ date: '2026-10-26'
 cover: /images/covers/xin-wen-yan-huo-iphone-duo-1026.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - iPhone Duo
   - 黄牛
   - 溢价

@@ -4,6 +4,7 @@ date: '2026-10-19'
 cover: /images/covers/er-pan-yan-huo-hui-yi-pin-tu.jpg
 categories: 耳畔烟火
 tags:
+  - 公众号文章
   - 把回忆拼好给你
   - 音乐
   - 回忆

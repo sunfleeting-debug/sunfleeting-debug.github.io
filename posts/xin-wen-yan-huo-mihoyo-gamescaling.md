@@ -4,6 +4,7 @@ date: '2026-10-23'
 cover: /images/covers/xin-wen-yan-huo-mihoyo-gamescaling.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - 米哈游
   - 小模型
   - 游戏 AI

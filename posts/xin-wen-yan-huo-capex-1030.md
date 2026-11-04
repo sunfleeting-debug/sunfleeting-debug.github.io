@@ -4,6 +4,7 @@ date: '2026-10-30'
 cover: /images/covers/xin-wen-yan-huo-capex-1030.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - 云计算
   - 资本开支
   - 财报

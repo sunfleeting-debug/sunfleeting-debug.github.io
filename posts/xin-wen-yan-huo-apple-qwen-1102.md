@@ -4,6 +4,7 @@ date: '2026-11-02'
 cover: /images/covers/xin-wen-yan-huo-apple-qwen-1102.jpg
 categories: 新闻烟火
 tags:
+  - 公众号文章
   - Apple Intelligence
   - 通义千问
   - Siri
